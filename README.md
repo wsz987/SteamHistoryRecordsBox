@@ -6,7 +6,7 @@ Add  search history records box to steam's search box
 before this,u must be to install 
 [Tampermonkey](https://www.tampermonkey.net/) 
 
-then,u can also install by [greasyfork](https://greasyfork.org/zh-CN/scripts/422927) 
+then,u can also install 'script' by [greasyfork](https://greasyfork.org/zh-CN/scripts/422927) 
 
 In use, you can click the '🗑' bottom button to clear the data
 
