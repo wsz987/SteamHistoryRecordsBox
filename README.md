@@ -8,6 +8,8 @@ before this,u must be to install
 
 then,u can also install by [greasyfork](https://greasyfork.org/zh-CN/scripts/422927) 
 
+In use, you can click the '🗑' bottom button to clear the data
+
 if I can help u, give me a Star,thank u (●'◡'●)
 
 ```
