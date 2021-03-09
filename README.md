@@ -13,7 +13,7 @@ In use, you can click the '🗑' bottom button to clear the data
 if I can help u, give me a Star,thank u (●'◡'●)
 
 ```
-// default '5'   Maybe you need to customize the number of history's records
+// default '5'   Maybe you need to customize the 'MAX' number of history's records
 window.HistoryNum = 5
 ```
 
