@@ -28,5 +28,4 @@ window.HistoryNum = 5
 ```
 
 ![avatar](https://github.com/wsz987/SteamHistoryRecordsBox/blob/main/steamtools.jpg?raw=true)
-![avatar](https://github.com/wsz987/Steam-history-records-box/blob/main/1.jpg?raw=true)
 ![avatar](https://github.com/wsz987/Steam-history-records-box/blob/main/2.jpg?raw=true)
