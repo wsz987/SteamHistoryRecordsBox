@@ -1,4 +1,4 @@
-# Steam-history-records-box
+# SteamHistoryRecordsBox
 Add  search history records box to steam's search box
 
 中文老哥们 来我帖子看详细 → [keylol](https://keylol.com/t693504-1-1) 
@@ -27,5 +27,6 @@ if I can help u, give me a Star,thank u (●'◡'●)
 window.HistoryNum = 5
 ```
 
+![avatar](https://github.com/wsz987/SteamHistoryRecordsBox/blob/main/steamtools.jpg?raw=true)
 ![avatar](https://github.com/wsz987/Steam-history-records-box/blob/main/1.jpg?raw=true)
 ![avatar](https://github.com/wsz987/Steam-history-records-box/blob/main/2.jpg?raw=true)
