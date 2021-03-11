@@ -13,8 +13,6 @@
 // @supportURL   https://keylol.com/t693504-1-1
 // ==/UserScript==
 
-
-// @require      https://cdn.staticfile.org/jquery/1.12.4/jquery.min.js
 (function () {
     // 自定义历史记录条例上限
     window.HistoryNum = 5
