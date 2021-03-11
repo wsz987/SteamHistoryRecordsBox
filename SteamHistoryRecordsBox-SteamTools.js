@@ -125,3 +125,4 @@ function setHistoryData() {
     GM_setValue('historyData', oldVal)
     initHistory()
 }
+
