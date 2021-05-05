@@ -6,8 +6,9 @@ Add  search history records box to steam's search box
 ------
 
 now,u can use `script` by [SteamTools,steam++](https://github.com/SteamTools-Team/SteamTools)
+![avatar](https://github.com/wsz987/Steam-history-records-box/blob/main/1.png?raw=true)
 
-but before this maybe u need download `GM.js` and override it where `Steam++\scripts\GM.js`  (Pay attention to backup it)
+~~but before this maybe u need download `GM.js` and override it where `Steam++\scripts\GM.js`  (Pay attention to backup it)~~
 
 ------
 
@@ -27,5 +28,4 @@ if I can help u, give me a Star,thank u (●'◡'●)
 window.HistoryNum = 5
 ```
 
-![avatar](https://github.com/wsz987/SteamHistoryRecordsBox/blob/main/steamtools.jpg?raw=true)
 ![avatar](https://github.com/wsz987/Steam-history-records-box/blob/main/2.jpg?raw=true)
